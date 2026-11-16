@@ -1,0 +1,12 @@
+node_modules
+.next
+out
+.env*.local
+next-env.d.ts
+tsconfig.tsbuildinfo
+lighthouse-report.html
+lighthouse-report.json
+lighthouse-*.report.html
+lighthouse-*.report.json
+server.log
+.vercel
